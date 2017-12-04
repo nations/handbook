@@ -6,4 +6,4 @@
   - [Channels](./discord/channels)
 - Meta
   - [Code of Conduct](https://github.com/nations/handbook/blob/master/.github/CODE_OF_CONDUCT.md)
-  - [LICENSE](https://github.com/nations/handbook/blob/master/.github/LICENSE.md)
+  - [License](https://github.com/nations/handbook/blob/master/.github/LICENSE.md)
