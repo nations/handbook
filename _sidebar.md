@@ -4,3 +4,6 @@
   - [User Agreement](./discord/guidelines)
   - [Staff Agreement](./discord/staff-guidelines)
   - [Channels](./discord/channels)
+- Meta
+  - [Code of Conduct](https://github.com/nations/handbook/blob/master/.github/CODE_OF_CONDUCT.md)
+  - [LICENSE](https://github.com/nations/handbook/blob/master/.github/LICENSE.md)
