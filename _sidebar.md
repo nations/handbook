@@ -2,8 +2,11 @@
 - [Welcome](./readme)
 - Discord
   - [User Agreement](./discord/guidelines)
-  - [Staff Agreement](./discord/staff-guidelines)
   - [Channels](./discord/channels)
+  - [Roles](./discord/roles)
+  - Moderation
+    - [Staff Agreement](./discord/staff-guidelines)
+    - [Situations](./discord/situations)
 - Meta
   - [Code of Conduct](https://github.com/nations/handbook/blob/master/.github/CODE_OF_CONDUCT.md)
   - [License](https://github.com/nations/handbook/blob/master/.github/LICENSE.md)
