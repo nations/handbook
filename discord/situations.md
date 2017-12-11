@@ -7,6 +7,3 @@ Every Moderator is expected to be prepared no matter the situation, so we keep t
  2. Ask a `@Senior Moderator` or above to use `>role remove @mod 298600795560083456`  
  then
  3. Work to calm down any community members
-
-
-#
