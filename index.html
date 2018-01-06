@@ -8,6 +8,11 @@
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/docsify-copy-code/styles.css">
+  <style>
+    section.cover.show{
+      height: 40vh; 
+    }
+  </style>
 </head>
 <body>
   <div id="app">Loading Handbook...</div>
@@ -17,11 +22,18 @@
       desc: 'The community handbook for the Nations network',
       repo: 'nations/handbook',
       loadSidebar: true,
+      coverpage: true,
+      externalLinkTarget: '_blank',
+      alias: {
+        '.*?/coc': 'https://github.com/nations/handbook/blob/master/.github/CODE_OF_CONDUCT.md',
+        '.*?/license': 'https://github.com/nations/handbook/blob/master/.github/LICENSE.md',
+      },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify-copy-code/index.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>

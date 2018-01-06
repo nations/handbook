@@ -1,12 +1,6 @@
-<!-- TODO: Decide on file structure -->
-- [Welcome](./readme)
-- Discord
-  - [User Agreement](./discord/guidelines)
-  - [Channels](./discord/channels)
-  - [Roles](./discord/roles)
-  - Moderation
-    - [Staff Agreement](./discord/staff-guidelines)
-    - [Situations](./discord/situations)
+- Nations handbook
+  - [Welcome](home.md)
+
 - Meta
-  - [Code of Conduct](https://github.com/nations/handbook/blob/master/.github/CODE_OF_CONDUCT.md)
-  - [License](https://github.com/nations/handbook/blob/master/.github/LICENSE.md)
+  - [Code of Conduct](coc.md)
+  - [License](license.md)
