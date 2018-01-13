@@ -8,6 +8,7 @@
 - Rendering
   - [How to Render](rendering/how-to-render.md)
   - [Render Machines](rendering/machines.md)
+  - [Organization](rendering/organization.md)
 - Meta
   - [Code of Conduct](coc.md)
   - [License](license.md)
