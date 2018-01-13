@@ -9,7 +9,7 @@ First, you must have the video assets needed for the render and have downloaded 
 5. Go to the fourth comp, named "Click Apply Here Again", click on the soundKeysPush layer, then in the effect controls, click on the "Apply" button. Wait a few seconds for it to complete.
 6. Go to the comp named "Render This", then drag the audio file down to the layers. Remember to delete any existing ones first.
 7. Drag the slider to make sure its the same length as the audio file
-8. Go to `File -> Export -> Add to Render Queue`
+8. Go to `File` > `Export` > `Add to Render Queue`
 9. Click on the render queue, then scroll down to the most recently added render, click on the downwards facing arrow next to "Lossless", then click H.264. Then, click on the file name to the right.
 10. Set an output directory, which should be `Desktop/Videos/Your Nation/` - then save the video under the song name.
 11. Click the render button, the render should take less than 1h30m usually, depending on the Nation and song length.
