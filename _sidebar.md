@@ -1,5 +1,9 @@
 - Nations handbook
   - [Welcome](home.md)
+  - Discord
+    - [Channels](discord/channels.md)
+    - [Guidelines](discord/guidelines.md)
+    - [Roles](discord/roles.md)
 
 - Rendering
   - [How to Render](rendering/how-to-render.md)
