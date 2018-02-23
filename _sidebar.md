@@ -1,9 +1,17 @@
 - Nations handbook
   - [Welcome](home.md)
-  - Discord
-    - [Channels](discord/channels.md)
-    - [Guidelines](discord/guidelines.md)
-    - [Roles](discord/roles.md)
+- Discord Staff Team
+  - [Introduction](discord/guidelines.md)
+  - [Roles](discord/roles.md)
+  - [User Roles](discord/userroles.md)
+  - [Bot Commands](discord/botcommands.md)
+  - [Rowboat Commands](discord/rowboatcommands.md)
+  - [Ask for Help](discord/askforhelp.md)
+  - [Punishments](discord/punishments.md)
+  - [Rules](discord/rules.md)
+  - [Staff Abuse](discord/staffabuse.md)
+  - [Overall](discord/overall.md)
+  - [Channels](discord/channels.md)
 
 - Rendering
   - [How to Render](rendering/how-to-render.md)
